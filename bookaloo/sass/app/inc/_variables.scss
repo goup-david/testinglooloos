@@ -1,0 +1,47 @@
+// Project Variables **************************
+
+/* Typography */
+
+$font-primary   : acumin-pro, sans-serif; // 200, 300, 400, 700
+$font-secondary : filson-pro, sans-serif; // 500, 700
+
+  
+/* Colors */
+
+$black                  : #000000; 
+$gray-darkest           : #111111;
+$gray-dark              : #333333;
+$gray                   : #666666;
+$gray-light             : #989898;
+$gray-lighter           : #cccccc;
+$gray-lightest          : #e6e6e6;
+$gray-lightest2         : #f1f1f1;
+$white                  : #ffffff;
+
+$brand-gray             : #393d44; 
+$brand-gray-light       : #676c72;
+$brand-gray-lighter     : #7e8ea2;
+
+$brand-primary-dark     : #405893;
+
+$brand-primary          : #336cb4;
+$brand-primary-light    : #629acc;
+$brand-primary-light2   : #d6e5ff;
+$brand-primary-lighter  : #e9eef4;
+$brand-primary-lightest : #f3f8fe;
+
+$brand-secondary        : #00ac98;
+$brand-secondary-light  : #57c2bc;
+
+$danger                 : #e22641;
+$danger-light           : #e17080;
+
+
+/* Breakpoints */
+
+$break-xs  : 0;
+$break-sm  : breakpoint-min(sm);
+$break-md  : breakpoint-min(md);
+$break-lg  : breakpoint-min(lg);
+$break-xl  : breakpoint-min(xl);
+$break-xxl : breakpoint-min(xxl);
