@@ -6,5 +6,5 @@
 <script src="https://looloos.co/js/jquery/jquery.visible.js"></script>
 
 <!-- <script src="/js/app.js?v=<?php //echo time(); ?>"></script> -->
-<script src="https://looloos.co/js/application.js?v=<?php echo time(); ?>"></script>
+<script src="https://looloos.co/js/app.js?v=<?php echo time(); ?>"></script>
 
