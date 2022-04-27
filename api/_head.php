@@ -13,7 +13,7 @@
 <!-- CSS -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"  rel="stylesheet" >
 <link rel="stylesheet" href="https://use.typekit.net/yqs7hnc.css">
-<link href="/css/app.css?v=<?php echo time(); ?>" rel="stylesheet" type="text/css">
+<link href="/css/app.css" rel="stylesheet" type="text/css">
 <link href="https://looloos.co/css/edits.css" rel="stylesheet" type="text/css">
 <!-- <link href="/css/edits.css" rel="stylesheet" type="text/css"> -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
